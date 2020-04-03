@@ -1,0 +1,8 @@
+                      item  price
+user                             
+dayaayb@gmail.com     milk     25
+dayaayb@gmail.com    sugar     35
+dayaayb@gmail.com  avalaki     65
+dayaayb@gmail.com    masal     95
+dayaayb@gmail.com      oil     65
+dayaayb@gmail.com   mirchi     95
